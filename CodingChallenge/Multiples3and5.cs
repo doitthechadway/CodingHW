@@ -17,7 +17,7 @@ namespace CodingChallenge
             int sumof3 = 0;            
             List<int> multiplesof3 = new List<int>();
 
-            Console.WriteLine("What is the sum of every multiple of 3 below 1000?\n");
+            Console.WriteLine("What is the sum of every multiple of 3 below 1000?\n");    
 
             for (int i = 0; i <= 1000; i += 3)
             {
